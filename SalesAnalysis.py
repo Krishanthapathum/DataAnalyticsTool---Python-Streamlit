@@ -96,8 +96,6 @@ st.markdown("""<div style='margin-top: 30px;'></div>""", unsafe_allow_html=True)
 tab1, tab2 = st.tabs([" Visualizations", " Descriptive Statistics"])
 
 
-
-
 # st.subheader("📚 Descriptive Statistics with Step-by-Step Calculations")
 
 # st.markdown("""
