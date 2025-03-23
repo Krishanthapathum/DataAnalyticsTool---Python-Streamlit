@@ -46,4 +46,4 @@ The Sales Analytics Dashboard is designed to help sales companies visualize and 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/sales-dashboard.git
+   git clone https://github.com/Krishanthapathum/DataAnalyticsTool-Python-Streamlit.git
