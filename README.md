@@ -47,10 +47,10 @@ The Sales Analytics Dashboard is designed to help sales companies visualize and 
 
    ```bash
    git clone https://github.com/Krishanthapathum/DataAnalyticsTool-Python-Streamlit.git
-
-2. **Install Python**
-    - [Download Python](#https://www.python.org/downloads/)
    
+2. **Install Python**
+    - [Download Python](https://www.python.org/downloads/)
+
 3. **Navigate to the Project Directory:**
    
    ```bash
