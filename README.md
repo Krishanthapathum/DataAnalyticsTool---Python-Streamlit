@@ -2,19 +2,6 @@
 
 A comprehensive and interactive dashboard built with Streamlit for analyzing sales data. This project leverages Python libraries such as Pandas, Matplotlib, Seaborn, and Plotly to provide a detailed view of sales metrics and trends.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
-- [Credits](#credits)
-
 ## Overview
 
 The Sales Analytics Dashboard is designed to help sales companies visualize and interpret their data effectively. The app includes interactive filters for regions and segments, KPI cards, a variety of charts, and descriptive statistics to provide insight into sales performance.
